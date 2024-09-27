@@ -9,8 +9,8 @@
       :sliderStatus="sliderStatus"
       @toggle="toggleSliderStatus"
       @remove-item="deleteItem"
-      @add="addItem"
       @update-maximum="updateMaximum"
+      @add="addItem"
     ></router-view>
   </div>
 </template>
