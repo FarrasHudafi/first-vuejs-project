@@ -1,6 +1,6 @@
 # vue-cli
 npm run lint --fix      
-
+npm run serve
 
 ## Project setup
 ```
